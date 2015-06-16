@@ -1,4 +1,8 @@
-asdasdaasaaaaasdasdsad
+<<<<<<< HEAD
+asdasdaasad
+=======
+asdasdadsad
+>>>>>>> fea1
 asdsadsa
 
 asdsad
